@@ -1,0 +1,7 @@
+name: log_system
+description: A simple log entry system
+version: 1.0.0
+environment:
+  sdk: '>=2.12.0 <3.0.0'
+dependencies:
+  intl: ^0.17.0
